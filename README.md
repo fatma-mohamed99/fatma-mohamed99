@@ -8,8 +8,7 @@
 
 
 
-
-### 🛠️ Languages and Tools:
+## 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗦𝗸𝗶𝗹𝗹𝘀 
 
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5" alt="html5" />
@@ -33,11 +32,11 @@
 
 
 
-<div align="center">
-  <hr style="border: 2px solid #4B81E7; width: 100%;">
-</div>
 
-### 🤝 Connect with me:
+
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲
+
+
 
 <div align="left">
   <a href="https://linkedin.com/in/fatma-mohamed-alii" target="_blank" alt="https://linkedin.com/in/fatma-mohamed-alii">
