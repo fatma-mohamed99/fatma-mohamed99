@@ -26,6 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-mohamed99&show_icons=true&locale=en&layout=compact" alt="fatma-mohamed99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatma-mohamed99&show_icons=true&locale=en" alt="fatma-mohamed99" /></p>
+<div>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-mohamed99&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-mohamed99&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most-used-languages"/>
+</div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-mohamed99&" alt="fatma-mohamed99" /></p>
