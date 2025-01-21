@@ -68,19 +68,5 @@
 
 
 
-<div >
-  <hr style="border: 2px solid #4B81E7; width: 100%; ">
-</div>
-<div >
-  <hr style="border: 2px solid #4B81E7; width: 100%;">
-</div>
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatma-mohamed99&theme=darkhub&column=7" alt="fatma-mohamed99" />
- </a>
-</p>
 
-<div align="center">
-  <hr style="border: 2px solid #4B81E7; width: 100%;">
-</div>
