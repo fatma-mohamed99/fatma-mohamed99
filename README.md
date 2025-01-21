@@ -2,8 +2,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&center=true&vCenter=true&width=900&height=120&color=D3D3D3&background=0D1117&lines=Hi+%F0%9F%91%8B+I'm+Fatma+Mohamed+Ali;Front-End+Developer;Graduate+of+ITI+(Egypt);Track+=>+Web+Development+using+MERN+Stack." alt="Front-end developer" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
-
+<div align="center">
+  <hr style="border: 2px solid #4B81E7; width: 100%;">
+</div>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=fatma-mohamed99&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-mohamed99"  /> 
