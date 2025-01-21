@@ -25,12 +25,6 @@
 
 
 
-<div align="center">
-  <hr style="border: 2px solid #4B81E7; width: 100%;">
-</div>
- 👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
-
-- 🌱 I'm currently learning **Next.js**
 
 
 <div align="center">
