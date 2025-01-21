@@ -11,15 +11,16 @@
 ## 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗦𝗸𝗶𝗹𝗹𝘀 
 
 <p align="left">
- <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5" alt="html5" />
- <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3" alt="css3" />
- <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript" alt="javascript" />
- <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript" alt="typescript" />
- <img src="https://img.shields.io/badge/-React-0D1117?style=flat&logo=react" alt="react" />
+  <img src="https://img.shields.io/badge/-React-0D1117?style=flat&logo=react" alt="react" />
  <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular" alt="angular" />
- <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap" alt="bootstrap" />
- <img src="https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass" alt="sass" />
+ <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript" alt="typescript" />
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript" alt="javascript" />
  <img src="https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwindcss" alt="tailwind" />
+ <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass" alt="sass" />
+ <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3" alt="css3" />
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5" alt="html5" />
+
 </p>
 
 ## Soft Skills
