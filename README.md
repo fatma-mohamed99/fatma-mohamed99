@@ -23,6 +23,12 @@
  <img src="https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwindcss" alt="tailwind" />
 </p>
 
+## Soft Skills
+
+- Committed  
+- Self-Learner  
+- Team Player  
+- Motivated  
 
 
 
