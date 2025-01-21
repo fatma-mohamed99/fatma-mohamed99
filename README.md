@@ -1,31 +1,65 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&center=true&vCenter=true&width=900&height=120&color=00008B&lines=Hi+%F0%9F%91%8B+I'm+Fatma+Mohamed+Ali;Front-End+Developer;Graduate+of+ITI+(Egypt);Track+Web+Development+using+MERN+Stack." alt="Front-end developer" />
-
-  
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&center=true&vCenter=true&width=900&height=120&color=58A6FF&background=0D1117&lines=Hi+%F0%9F%91%8B+I'm+Fatma+Mohamed+Ali;Front-End+Developer;Graduate+of+ITI+(Egypt);Track+Web+Development+using+MERN+Stack." alt="Front-end developer" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=fatma-mohamed99&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-mohamed99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatma-mohamed99" alt="fatma-mohamed99" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Front-End Web Development**
-
-- 📫 How to reach me **fatma.mohamed13499@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatma-mohamed-alii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-mohamed-alii" height="30" width="40" /></a>
+ <img src="https://komarev.com/ghpvc/?username=fatma-mohamed99&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-mohamed99" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatma-mohamed99&theme=darkhub&column=7" alt="fatma-mohamed99" />
+ </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-mohamed99&show_icons=true&locale=en&layout=compact" alt="fatma-mohamed99" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 👩‍💻 About Me:
 
+- 🌱 I'm currently learning **Next.js**
+- 💬 Ask me about **Front-End Web Development**
+- 📫 How to reach me **fatma.mohamed13499@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-mohamed99&"/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🤝 Connect with me:
+
+<p align="left">
+ <a href="https://linkedin.com/in/fatma-mohamed-alii" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-mohamed-alii" height="30" width="40" />
+ </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+ <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5" alt="html5" />
+ <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3" alt="css3" />
+ <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript" alt="javascript" />
+ <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript" alt="typescript" />
+ <img src="https://img.shields.io/badge/-React-0D1117?style=flat&logo=react" alt="react" />
+ <img src="https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular" alt="angular" />
+ <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap" alt="bootstrap" />
+ <img src="https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass" alt="sass" />
+ <img src="https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwindcss" alt="tailwind" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 GitHub Stats:
+
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-mohamed99&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117" alt="fatma-mohamed99" />
+</p>
+
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-mohamed99&theme=dark&background=0D1117" alt="fatma-mohamed99" />
+</p>
+
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatma-mohamed99&show_icons=true&locale=en&theme=dark&bg_color=0D1117" alt="fatma-mohamed99" />
+</p>
