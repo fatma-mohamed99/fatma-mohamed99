@@ -33,7 +33,6 @@
 ### 👩‍💻 About Me:
 
 - 🌱 I'm currently learning **Next.js**
-- 💬 Ask me about **React.**
 - 📫 How to reach me **fatma.mohamed13499@gmail.com**
 
 <div align="center">
